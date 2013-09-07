@@ -1,0 +1,5 @@
+#ifndef __ALCEDO_ERROR_H__
+#define __ALCEDO_ERROR_H__
+#define NET_NOT_CONNETED 101
+#define NOT_MATCH_SERVER 1001
+#endif //__ALCEDO_ERROR_H__
